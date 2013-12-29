@@ -1,3 +1,6 @@
+@import '../bower_components/bootstrap/dist/css/bootstrap.css';
+@import '../bower_components/font-awesome/css/font-awesome.css';
+
 /* Space out content a bit */
 body {
   padding-top: 20px;
